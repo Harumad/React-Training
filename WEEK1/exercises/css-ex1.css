@@ -1,0 +1,15 @@
+/* CSS Test */
+body {
+  background-color:lightblue;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(5, 0, 139);
+  text-align: center;
+}
+
+p {
+  color: darkred;
+  font-size: 18px;
+}
