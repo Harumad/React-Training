@@ -32,7 +32,6 @@ export default function Home() {
           title="Travel Bag"
           description="Lightweight and spacious. Ideal for travel."
         />
-     
        </div>
        </div>
   );
