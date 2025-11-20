@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      
+      <h1>State In Function</h1>
       <h1>{Number}</h1>
       <div className="card">
         <button onClick={ handleCheck }>Add </button>
