@@ -13,7 +13,6 @@ const App=() => {
      setEmail(e.target.value);
    };
 
-
    const handleSubmit =(e) =>{
     e.preventDefault ()
 
