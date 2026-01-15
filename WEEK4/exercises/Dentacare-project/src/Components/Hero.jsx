@@ -10,7 +10,7 @@ const Hero = ({ imgSrc }) => {
           
         <div className="bg-gradient-to-b from-blue-500 to-black/40 absolute inset-0"></div>
 
-        <div className="w-[1000px] mx-auto px-6 relative z-10">
+        <div className="w-[1000px] mx-auto px-6 relative z-10 -2-mt-">
           <div className="text-white w-[900px]">
             <h1 className="text-5xl font-extrabold leading-tight tracking-tight drop-shadow-md">
               Modern Dentistry in a Calm Environment
@@ -21,7 +21,7 @@ const Hero = ({ imgSrc }) => {
             </p>
             <a
               href=""
-              className="mt-6 bg-gradient-to-r from-indigo-600 to-blue-600 text-white px-8 py-3 rounded-full shadow-lg"
+              className="mt-2 bg-gradient-to-r from-indigo-600 to-blue-600 text-white px-7 py-3 rounded-full shadow-lg"
             >
               Make an Appointment
             </a>
