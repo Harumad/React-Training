@@ -1,6 +1,12 @@
 import { create } from "zustand";
 import { v4 as uuidv4 } from "uuid";
 
+
+
+
+
+
+
 // 🆕 NEW (ZUSTAND):
 // We are creating a GLOBAL store.
 // This store replaces local state (useState) that was previously in App.jsx.
@@ -12,6 +18,10 @@ const useStuedentsStore = create((set) => ({
   students: [
     
   ],
+
+
+
+
 
   // 🆕 NEW (STORE ACTION):
   // This function replaces setStudents(prev => [...prev, student])
